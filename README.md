@@ -1,2 +1,1 @@
-# kdps_dev
-Developmental repository of KDPS
+# Get unrelated individuals from Kinship output
