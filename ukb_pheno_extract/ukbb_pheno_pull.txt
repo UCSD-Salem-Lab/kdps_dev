@@ -1,0 +1,6 @@
+31 sex
+21022 age
+131042 ms
+130874 schizophrenia
+20117 alcohol_drinking
+131298 heart_attack
